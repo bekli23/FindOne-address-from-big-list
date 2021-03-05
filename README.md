@@ -1,5 +1,6 @@
 # FindOne-address-from-big-list<br>
-Search if certain words are in this dictionary.<br>
+Search Address from one big txt file .<br>
+Just change txt file addresses.txt from .py file
 
 E:\python find1.py <br>
 word found<br>
